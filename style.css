@@ -1,0 +1,940 @@
+
+
+
+
+.mit-overblik-default {
+    background-color: rgb(234, 234, 234);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 50px;
+  }
+  
+  .mit-overblik-default .div {
+    background-color: #ffffff;
+    overflow-x: hidden;
+    width: 428px;
+    height: 2335px;
+    position: relative;
+  }
+  
+  .mit-overblik-default .vrige-dokumenter {
+    position: absolute;
+    width: 409px;
+    height: 44px;
+    top: 109px;
+    left: 23px;
+  }
+  
+  .mit-overblik-default .text-wrapper {
+    position: absolute;
+    width: 407px;
+    height: 44px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Light", Helvetica;
+    font-weight: 300;
+    color: var(--black);
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .group {
+    position: absolute;
+    width: 368px;
+    height: 56px;
+    top: 162px;
+    left: 20px;
+  }
+  
+  .mit-overblik-default .familie {
+    position: relative;
+    width: 370px;
+    height: 56px;
+  }
+  
+  .mit-overblik-default .text-wrapper-2 {
+    width: 368px;
+    height: 56px;
+    color: var(--darkteal);
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .group-2 {
+    position: absolute;
+    width: 385px;
+    height: 167px;
+    top: 1121px;
+    left: 21px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #bbc1c2;
+  }
+  
+  .mit-overblik-default .overlap-group {
+    position: absolute;
+    width: 385px;
+    height: 68px;
+    top: 0;
+    left: 0;
+    background-color: #004f54;
+    border-radius: 12px 12px 0px 0px;
+  }
+  
+  .mit-overblik-default .familie-wrapper {
+    position: relative;
+    width: 365px;
+    height: 67px;
+    left: 19px;
+  }
+  
+  .mit-overblik-default .div-wrapper {
+    position: relative;
+    width: 367px;
+    height: 67px;
+  }
+  
+  .mit-overblik-default .text-wrapper-3 {
+    position: absolute;
+    width: 365px;
+    height: 67px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--white);
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .overlap {
+    position: absolute;
+    width: 87px;
+    height: 99px;
+    top: 68px;
+    left: 0;
+  }
+  
+  .mit-overblik-default .overlap-group-wrapper {
+    position: absolute;
+    width: 87px;
+    height: 47px;
+    top: 22px;
+    left: 0;
+  }
+  
+  .mit-overblik-default .overlap-group-2 {
+    position: relative;
+    width: 83px;
+    height: 47px;
+  }
+  
+  .mit-overblik-default .text-wrapper-4 {
+    position: absolute;
+    width: 83px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--darkteal);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .text-wrapper-5 {
+    position: absolute;
+    width: 83px;
+    top: 22px;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--darkteal);
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .mit-overblik-default .line {
+    position: absolute;
+    width: 1px;
+    height: 99px;
+    top: 0;
+    left: 82px;
+    object-fit: cover;
+  }
+  
+  .mit-overblik-default .group-3 {
+    position: absolute;
+    width: 261px;
+    height: 74px;
+    top: 77px;
+    left: 100px;
+  }
+  
+  .mit-overblik-default .vector {
+    position: absolute;
+    width: 12px;
+    height: 20px;
+    top: 29px;
+    left: 246px;
+  }
+  
+  .mit-overblik-default .fremtidsfuldmagt {
+    position: absolute;
+    width: 229px;
+    height: 74px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--almostblack);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .overlap-wrapper {
+    position: absolute;
+    width: 385px;
+    height: 193px;
+    top: 1318px;
+    left: 21px;
+  }
+  
+  .mit-overblik-default .overlap-2 {
+    position: relative;
+    height: 205px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #bbc1c2;
+  }
+  
+  .mit-overblik-default .group-4 {
+    position: relative;
+    width: 203px;
+    height: 67px;
+    left: 19px;
+  }
+  
+  .mit-overblik-default .familie-2 {
+    position: relative;
+    width: 205px;
+    height: 67px;
+  }
+  
+  .mit-overblik-default .text-wrapper-6 {
+    width: 203px;
+    height: 67px;
+    color: var(--white);
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .p {
+    position: absolute;
+    width: 384px;
+    height: 44px;
+    top: 80px;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--almostblack);
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .mit-overblik-default .button-wrapper {
+    position: absolute;
+    width: 346px;
+    height: 48px;
+    top: 125px;
+    left: 18px;
+  }
+  
+  .mit-overblik-default .button {
+    display: flex;
+    width: 346px;
+    height: 48px;
+    align-items: center;
+    gap: 12px;
+    padding: 0px 20px;
+    position: relative;
+    background-color: var(--warm-pink);
+    border-radius: 5px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .mit-overblik-default .text-wrapper-7 {
+    position: relative;
+    width: 304px;
+    font-family: var(--default-paragraf-font-family);
+    font-weight: var(--default-paragraf-font-weight);
+    color: #ffffff;
+    font-size: var(--default-paragraf-font-size);
+    text-align: center;
+    letter-spacing: var(--default-paragraf-letter-spacing);
+    line-height: var(--default-paragraf-line-height);
+    font-style: var(--default-paragraf-font-style);
+  }
+  
+  .mit-overblik-default .group-5 {
+    position: absolute;
+    width: 385px;
+    height: 451px;
+    top: 1553px;
+    left: 21px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #bbc1c2;
+  }
+  
+  .mit-overblik-default .group-6 {
+    position: absolute;
+    width: 365px;
+    height: 67px;
+    top: 0;
+    left: 19px;
+  }
+  
+  .mit-overblik-default .group-7 {
+    position: absolute;
+    width: 144px;
+    height: 67px;
+    top: 0;
+    left: 222px;
+  }
+  
+  .mit-overblik-default .group-8 {
+    position: absolute;
+    width: 114px;
+    height: 67px;
+    top: 0;
+    left: 0;
+  }
+  
+  .mit-overblik-default .familie-3 {
+    position: relative;
+    width: 116px;
+    height: 67px;
+  }
+  
+  .mit-overblik-default .text-wrapper-8 {
+    position: absolute;
+    width: 114px;
+    height: 67px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--white);
+    font-size: 22px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .star {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 22px;
+    left: 120px;
+  }
+  
+  .mit-overblik-default .frame {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 15px;
+    top: 82px;
+    left: 17px;
+    flex-direction: column;
+    position: absolute;
+  }
+  
+  .mit-overblik-default .group-9 {
+    position: relative;
+    width: 348px;
+    height: 64px;
+  }
+  
+  .mit-overblik-default .overlap-group-3 {
+    position: relative;
+    height: 64px;
+  }
+  
+  .mit-overblik-default .group-wrapper {
+    position: absolute;
+    width: 348px;
+    height: 64px;
+    top: 0;
+    left: 0;
+  }
+  
+  .mit-overblik-default .group-10 {
+    height: 64px;
+    background-color: #e5edee;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #004f54;
+  }
+  
+  .mit-overblik-default .group-11 {
+    position: relative;
+    width: 169px;
+    height: 64px;
+    top: -1px;
+    left: 9px;
+  }
+  
+  .mit-overblik-default .text-wrapper-9 {
+    position: absolute;
+    width: 167px;
+    height: 64px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--darkteal);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .check-thick-wrapper {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 16px;
+    left: 306px;
+    background-color: #004f54;
+    border-radius: 16px;
+  }
+  
+  .mit-overblik-default .check-thick {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .mit-overblik-default .group-12 {
+    position: relative;
+    width: 348px;
+    height: 60px;
+  }
+  
+  .mit-overblik-default .overlap-3 {
+    position: relative;
+    height: 60px;
+  }
+  
+  .mit-overblik-default .group-13 {
+    position: absolute;
+    width: 348px;
+    height: 60px;
+    top: 0;
+    left: 0;
+  }
+  
+  .mit-overblik-default .group-14 {
+    height: 60px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #004f54;
+  }
+  
+  .mit-overblik-default .group-15 {
+    position: relative;
+    width: 168px;
+    height: 60px;
+    top: -1px;
+    left: 9px;
+  }
+  
+  .mit-overblik-default .text-wrapper-10 {
+    position: absolute;
+    width: 166px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--darkteal);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .group-16 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 14px;
+    left: 305px;
+    transform: rotate(45deg);
+  }
+  
+  .mit-overblik-default .x-wrapper {
+    position: relative;
+    height: 32px;
+    background-color: #ffffff;
+    border-radius: 16px;
+    border: 2px solid;
+    border-color: #004f54;
+  }
+  
+  .mit-overblik-default .x {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 2px;
+    left: 2px;
+    transform: rotate(-45deg);
+  }
+  
+  .mit-overblik-default .text-wrapper-11 {
+    width: 348px;
+    height: 23px;
+    top: 400px;
+    left: 17px;
+    color: #004f54;
+    text-align: right;
+    text-decoration: underline;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .mit-overblik-default .group-17 {
+    position: absolute;
+    width: 386px;
+    height: 498px;
+    top: 228px;
+    left: 21px;
+  }
+  
+  .mit-overblik-default .group-18 {
+    width: 388px;
+    height: 498px;
+  }
+  
+  .mit-overblik-default .overlap-4 {
+    position: relative;
+    width: 386px;
+    height: 498px;
+  }
+  
+  .mit-overblik-default .rectangle {
+    height: 71px;
+    top: 0;
+    background-color: #fafafa;
+    border-radius: 12px 12px 0px 0px;
+    position: absolute;
+    width: 386px;
+    left: 0;
+    border: 1px solid;
+    border-color: #bbc1c2;
+  }
+  
+  .mit-overblik-default .familie-4 {
+    position: absolute;
+    width: 353px;
+    height: 30px;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .mit-overblik-default .text-wrapper-12 {
+    position: absolute;
+    width: 351px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--darkgray);
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .rectangle-2 {
+    height: 428px;
+    top: 70px;
+    background-color: #ffffff;
+    border-radius: 0px 0px 12px 12px;
+    position: absolute;
+    width: 386px;
+    left: 0;
+    border: 1px solid;
+    border-color: #bbc1c2;
+  }
+  
+  .mit-overblik-default .group-19 {
+    position: absolute;
+    width: 345px;
+    height: 48px;
+    top: 213px;
+    left: 20px;
+  }
+  
+  .mit-overblik-default .overlap-group-4 {
+    position: relative;
+    height: 48px;
+    border-radius: 4px;
+  }
+  
+  .mit-overblik-default .group-20 {
+    position: absolute;
+    width: 345px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    background-color: #b11717;
+    border-radius: 4px;
+  }
+  
+  .mit-overblik-default .group-21 {
+    position: relative;
+    width: 340px;
+    height: 25px;
+    top: 11px;
+    left: 5px;
+  }
+  
+  .mit-overblik-default .group-22 {
+    position: relative;
+    width: 342px;
+    height: 25px;
+  }
+  
+  .mit-overblik-default .text-wrapper-13 {
+    position: absolute;
+    width: 340px;
+    height: 25px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .mit-overblik-default .arrow-bold-wrapper {
+    position: absolute;
+    width: 14px;
+    height: 16px;
+    top: 16px;
+    left: 317px;
+    transform: rotate(90deg);
+  }
+  
+  .mit-overblik-default .arrow-bold {
+    position: absolute;
+    width: 16px;
+    height: 14px;
+    top: 1px;
+    left: -1px;
+    transform: rotate(-90deg);
+  }
+  
+  .mit-overblik-default .text-wrapper-14 {
+    position: absolute;
+    width: 342px;
+    top: 87px;
+    left: 19px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--darkgray);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .mit-overblik-default .frame-2 {
+    display: flex;
+    width: 385px;
+    height: 107px;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    top: 284px;
+    left: 0;
+    flex-direction: column;
+    position: absolute;
+  }
+  
+  .mit-overblik-default .img {
+    position: relative;
+    width: 385px;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .mit-overblik-default .group-23 {
+    position: relative;
+    width: 343.94px;
+    height: 47px;
+  }
+  
+  .mit-overblik-default .overlap-5 {
+    position: relative;
+    width: 346px;
+    height: 47px;
+  }
+  
+  .mit-overblik-default .group-24 {
+    position: absolute;
+    width: 115px;
+    height: 20px;
+    top: 27px;
+    left: 0;
+  }
+  
+  .mit-overblik-default .overlap-group-5 {
+    position: relative;
+    width: 113px;
+    height: 20px;
+  }
+  
+  .mit-overblik-default .arrow-bold-2 {
+    position: absolute;
+    width: 16px;
+    height: 15px;
+    top: 4px;
+    left: 92px;
+  }
+  
+  .mit-overblik-default .text-wrapper-15 {
+    position: absolute;
+    width: 113px;
+    height: 20px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .mit-overblik-default .group-25 {
+    position: absolute;
+    width: 346px;
+    height: 46px;
+    top: 0;
+    left: 0;
+  }
+  
+  .mit-overblik-default .text-wrapper-16 {
+    position: absolute;
+    width: 344px;
+    top: 0;
+    left: 0;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--darkteal);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .mit-overblik-default .group-26 {
+    position: relative;
+    width: 385px;
+    height: 1px;
+    margin-bottom: -1px;
+    background-image: url(https://generation-sessions.s3.amazonaws.com/5f4b4d6fc05dbf1f56ace641a102b598/img/line-12-1.svg);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .mit-overblik-default .frame-3 {
+    display: flex;
+    width: 385px;
+    height: 77px;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    top: 391px;
+    left: 0;
+    flex-direction: column;
+    position: absolute;
+  }
+  
+  .mit-overblik-default .group-27 {
+    position: absolute;
+    width: 386px;
+    height: 335px;
+    top: 756px;
+    left: 21px;
+  }
+  
+  .mit-overblik-default .group-28 {
+    width: 388px;
+    height: 335px;
+  }
+  
+  .mit-overblik-default .overlap-6 {
+    position: relative;
+    width: 386px;
+    height: 335px;
+  }
+  
+  .mit-overblik-default .rectangle-3 {
+    position: absolute;
+    width: 386px;
+    height: 265px;
+    top: 70px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 0px 0px 12px 12px;
+    border: 1px solid;
+    border-color: #bbc1c2;
+  }
+  
+  .mit-overblik-default .group-29 {
+    position: absolute;
+    width: 345px;
+    height: 48px;
+    top: 266px;
+    left: 20px;
+  }
+  
+  .mit-overblik-default .text-wrapper-17 {
+    position: absolute;
+    width: 342px;
+    top: 87px;
+    left: 19px;
+    font-family: "Helvetica Neue-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--darkgray);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 27px;
+  }
+  
+  .mit-overblik-default .topbar {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f6f7f7;
+  }
+  
+  .mit-overblik-default .group-30 {
+    position: relative;
+    width: 390px;
+    height: 75.08px;
+  }
+  
+  .mit-overblik-default .testaviva-trekanter {
+    position: absolute;
+    width: 46px;
+    height: 30px;
+    top: 22px;
+    left: 0;
+  }
+  
+  .mit-overblik-default .burger {
+    position: absolute;
+    width: 36px;
+    height: 24px;
+    top: 25px;
+    left: 354px;
+  }
+  
+  .mit-overblik-default .group-31 {
+    position: absolute;
+    width: 30px;
+    height: 32px;
+    top: 23px;
+    left: 221px;
+  }
+  
+  .mit-overblik-default .overlap-group-6 {
+    position: relative;
+    height: 32px;
+  }
+  
+  .mit-overblik-default .vector-2 {
+    position: absolute;
+    width: 27px;
+    height: 32px;
+    top: 0;
+    left: 0;
+  }
+  
+  .mit-overblik-default .group-32 {
+    position: absolute;
+    width: 13px;
+    height: 14px;
+    top: 1px;
+    left: 17px;
+    background-color: #c14f6d;
+    border-radius: 6.68px/6.93px;
+  }
+  
+  .mit-overblik-default .group-33 {
+    position: absolute;
+    width: 61px;
+    height: 75px;
+    top: 0;
+    left: 273px;
+  }
+  
+  .mit-overblik-default .basket-wrapper {
+    position: relative;
+    height: 75px;
+    background-color: #c14f6d;
+  }
+  
+  .mit-overblik-default .basket {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 23px;
+    left: 17px;
+  }
+  
